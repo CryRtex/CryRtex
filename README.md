@@ -2,7 +2,7 @@
 <a href="https://github.com/CryRtex
   <h3>My İnformation:</h3>
 <p align="left">     
-
+               <br>Hello, since you stopped by here, we have something in common with you.</br>
 
               
   ## Langauges I Know:             
