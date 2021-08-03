@@ -2,6 +2,7 @@
 <a href="https://github.com/CryRtex
   <h3>My Personal accounts:</h3>
 <p align="left">     
+Hello, since you stopped by here, we have something in common with you.
 
                </p>
   ## Langauges I Know:             
