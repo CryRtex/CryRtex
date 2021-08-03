@@ -1,20 +1,16 @@
 <h2 align="center">Hi 👋, I'm CryRtex!</h2>
 <a href="https://github.com/CryRtex
 
-         <h3>My Personal accounts:</h3>
 
-    
-               <br>Hello, since you stopped by here, we have something in common with you.</br>
 
               
-  ## Langauges I Know:             
+ ## Langauges I Know:             
         
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-                                                                                                                                           
 </br>
                                                                                                                                            
 <h3 align="left">GitHub Stats:</h3>
