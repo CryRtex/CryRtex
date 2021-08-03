@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋, I'm CryRtex!</h2>
 <a href="https://github.com/CryRtex
- ##My İnformation:
+
+         <h3>My Personal accounts:</h3>
+
     
                <br>Hello, since you stopped by here, we have something in common with you.</br>
 
