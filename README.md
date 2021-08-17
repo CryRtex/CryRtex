@@ -28,8 +28,7 @@ You can reach me here whenever you want.
 </br>
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=CryRtex&count_private=true&show_icons=true&theme=radical" width="%100" height="150px" alt="stats" />
+
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryRtex&layout=compact&theme=radical=true" />
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CryRtex&hide=contribs,prs)
 
 
