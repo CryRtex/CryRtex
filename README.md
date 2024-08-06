@@ -16,10 +16,11 @@ You can reach me here whenever you want.
 
 ## Langauges I Know:
 
-<code><img height="20" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png](https://avatars.githubusercontent.com/u/63681715?s=200&v=4)"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://carbon-language.github.io/logos/Carbon.png"></code>
+<code><img height="20" src="https://surrealdb.com/img/surrealdb-logo.png"></code>
 
 
 
